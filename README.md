@@ -1,6 +1,6 @@
-# Survivors Starter
+# Crimsonland Starter
 
-This project is the starting point for the CMSC 197 GDD Survivors workshops. It
+This project is the starting point for the CMSC 197 GDD Crimsonland workshops. It
 carries the assets and the engine settings for the three-session series. It
 carries no gameplay.
 
@@ -13,7 +13,7 @@ carries no gameplay.
 
 ## What the workshops build
 
-The Survivors manual adds the game in three sessions.
+The Crimsonland manual adds the game in three sessions.
 
 - Session 1 builds the top-down player, rotation to face travel, the held
   weapon, and the automatic attack.
